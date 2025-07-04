@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0 px;
+  box-sizing: border-box;
+}
+.extarnal {
+  background-color: #333;
+}
+.para {
+  display: flex;
+  margin-left: 10px;
+  padding: 5px;
+}
