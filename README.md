@@ -4,7 +4,8 @@
 
 # 🌍 Day 1: Built My First Travel Blog Page with HTML!
 
-Today’s practice was both **creative** and **technical**. I imagined building my own travel blog to share recent adventures — and turned that idea into a complete HTML page!
+✅ **HTML skills practiced:** structure, text formatting, lists, images, buttons, links, and semantic layout  
+🎯 **Goal achieved:** Created a personal, beginner-friendly travel blog using pure HTML!
 
 ---
 
@@ -42,5 +43,60 @@ Today’s practice was both **creative** and **technical**. I imagined building 
 
 ---
 
-✅ **HTML skills practiced:** structure, text formatting, lists, images, buttons, links, and semantic layout  
-🎯 **Goal achieved:** Created a personal, beginner-friendly travel blog using pure HTML!
+# 🎨 Day 2: CSS Mastery in Progress – From Basics to Visual Design!
+
+💡 **Skills Practiced:** CSS structure, text styling, layout control, background design, and element visibility  
+🎯 **Goal Achieved:** Developed confidence with core CSS techniques for real-world visual design!
+
+---
+
+## ✅ Practice Overview
+
+### 🔹 Task 1: CSS Types Challenge
+
+- Created three paragraphs and applied CSS using all three methods:
+  - **Inline**
+  - **Internal**
+  - **External**
+
+### 🔹 Task 2: Text Styling Challenge
+
+- Built a webpage with **headings**, **paragraphs**, and **lists**.
+- Styled elements with:
+  - Text color
+  - Font size
+  - Text alignment
+  - Font family
+  - Font style
+
+### 🔹 Task 3: Selectors Challenge
+
+- Practiced using different CSS **selectors**:
+  - `id`
+  - `class`
+  - `*` (universal)
+  - Element/tag selectors
+
+### 🔹 Task 4: Background Styling Challenge
+
+- Created sections with:
+  - Background **colors** and **images**
+  - Adjusted background **repeat**, **position**, and **size**
+
+### 🔹 Task 5: Borders Challenge
+
+- Styled **divs**, **paragraphs**, and **images** with:
+  - Various **border widths** and **colors**
+  - **Rounded corners**
+  - **Box-shadow** effects
+
+### 🔹 Task 6: Display Property Challenge
+
+- Used the `display` property with:
+  - `none`
+  - `block`
+  - `inline`
+  - `inline-block`
+- Controlled layout behavior and element visibility
+
+---
