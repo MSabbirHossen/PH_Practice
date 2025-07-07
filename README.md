@@ -100,3 +100,68 @@
 - Controlled layout behavior and element visibility
 
 ---
+
+# 🧪 Day 3: HTML & CSS Practice Tasks
+
+---
+
+## ✅ Practice Task 1: Webpage Recreation
+
+- Create a **webpage layout** similar to the reference shown (can use any placeholder or real picture).
+- Apply proper structure using semantic HTML (`<header>`, `<main>`, `<footer>` if needed).
+- Include an image and content that reflects the reference design.
+
+---
+
+## ✅ Practice Task 2: Feedback Form for Storytelling Contest
+
+- Design a **feedback form** with the following features:
+
+  ### 🔹 Form Fields:
+
+  - A `<textarea>` for participants to **share their stories**
+    - Use `rows` and `cols` attributes for sizing.
+  - A **dropdown menu** (`<select>`) to rate the story:
+    - Options: Good, Excellent, Outstanding, etc.
+  - **Labels** for each form field.
+  - A **Submit** button.
+
+  ### 🔹 Tips:
+
+  - Use `<br />` tags for layout and spacing where necessary.
+  - Ensure good form structure using the `<form>` element.
+
+---
+
+## ✅ Practice Task 3: Cricket Tournament Schedule
+
+- Build an **HTML table** using the following tags:
+
+  - `<table>`, `<tr>`, `<th>`, `<td>`, and `<caption>`
+
+- Include:
+
+  - A **caption** describing the tournament (e.g., “Spring Cup 2025”).
+  - Match schedule, team names, and results.
+
+- Use:
+  - `colspan` and `rowspan` to **merge cells** where necessary.
+  - Update the table as the tournament progresses.
+
+---
+
+## ✅ Practice Task 4: Meet Our Team – Flexbox Card Layout
+
+### 🔹 Requirements:
+
+1. Create a `<section>` with the heading: **"Meet Our Team"**
+2. Inside the section, add a `div` that contains **3 `.card` elements**
+3. Each `.card` should include:
+
+   - A **circular profile image**
+   - A **name** (e.g., "Alex Johnson")
+   - A **job title** (e.g., "Frontend Developer")
+   - A **short description** (2–3 lines)
+
+4. Use **CSS Flexbox** to arrange the cards side by side.
+5. Style each card with:
