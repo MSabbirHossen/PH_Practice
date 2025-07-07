@@ -10,6 +10,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   margin: 5px;
+  width: 100%;
 }
 .external {
   background-color: #09e0ce;
@@ -33,13 +34,11 @@ h1 {
   color: azure;
 }
 
-div,
-p,
-img {
-  border: 5px solid black;
+div {
+  border: 1px solid black;
   margin: 5px;
   border-radius: 10%;
-  box-shadow: 2px 2px #000000;
+  box-shadow: 1px 1px #ba8383;
 }
 
 .footer {
