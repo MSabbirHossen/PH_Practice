@@ -34,12 +34,12 @@ h1 {
   color: azure;
 }
 
-div {
+/* div {
   border: 1px solid black;
   margin: 5px;
   border-radius: 10%;
   box-shadow: 1px 1px #ba8383;
-}
+} */
 
 .footer {
   height: 7vh;

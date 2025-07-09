@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Feedback Form</title>
+    <link rel="stylesheet" href="styles/form.css" />
+  </head>
+  <body>
+    <h1>Feedback Form for Storytelling Contest</h1>
+<fieldset>
+    <legend>Personal Information</legend>
+    <form action="">
+      <label for="name">Writer:</label>
+      <input type="text" name="name" id="name" placeholder="Your name Here" />
+      <br /> <br>
+      <label for="email">Email:</label>
+      <input
+        type="email"
+        name="email"
+        id="email"
+        placeholder="Your Email Here"
+      />
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>Feedback</legend>
+      <label for="text">Massage</label>
+      <textarea
+        name="Story"
+        id="text"
+        cols="30"
+        rows="10"
+        placeholder="Feel Free to write your feedback"
+      ></textarea
+      ><br />
+      <label for="rate">Rate the story</label>
+      <select name="rate" id="rate">
+        <option value="Good">Good</option>
+        <option value="Amazing">Amazing</option>
+        <option value="Excellent">Excellent</option>
+      </select>
+    </fieldset>
+    </form>
+  </body>
+</html>
