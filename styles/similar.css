@@ -30,3 +30,7 @@ button {
   font-weight: bolder;
   border-radius: 5px;
 }
+button:hover {
+  background-color: lightblue;
+  cursor: pointer;
+}
