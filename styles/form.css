@@ -1,0 +1,29 @@
+body {
+  /* max-width: 1140px; */
+  margin: 15px;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+fieldset {
+  /* width: 50%; */
+  align-items: center;
+}
+label {
+  font-size: 20px;
+  font-weight: 600;
+  align-items: center;
+}
+input {
+  width: 40%;
+}
+textarea {
+  width: 50%;
+}
+select {
+  margin-top: 20px;
+}
+input[type="submit"] {
+  /* background: #000; */
+}
