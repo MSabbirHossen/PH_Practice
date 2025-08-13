@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Block Scope Demo</title>
+  </head>
+  <body>
+    <script>
+      {
+        let blockVar = "I'm inside the block!";
+        console.log(blockVar); // ✅ Works inside the block
+      }
+
+      // console.log(blockVar); // ❌ Uncommenting this line causes Error: blockVar is not defined
+
+      {
+        var functionVar = "I'm var, inside block!";
+      }
+
+      console.log(functionVar); // ✅ This works even outside the block (var is NOT block scoped)
+    </script>
+  </body>
+</html>
