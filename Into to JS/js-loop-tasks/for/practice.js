@@ -87,8 +87,10 @@ As Ersa is learning now, she wants to explore more and more. Tell Ersa to genera
  */
 
 /*programming hero*/
+let multiplier = 5;
 for (a = 1; a <= 10; a++) {
-  console.log(`5 x ${a} = ${5 * a}`);
+  // console.log(`5 x ${a} = ${5 * a}`);
+  console.log(a * multiplier);
 }
 
 console.log("Practice 07");
