@@ -2,4 +2,9 @@
 
 ## Author: MS_Hossen
 
-> #### In this repo I have Uploaded all the practice file during my learning process. Every thing might seems a bit messy. although you are most welcome to see my learning journey.
+## 📂 About This Repository
+
+This repository contains all my practice files created throughout my learning journey.  
+Things may look a little unorganized at times, as it reflects my step-by-step progress.
+
+✨ You’re most welcome to explore and follow along with my growth and learning process!
