@@ -2,3 +2,8 @@
   display: flex;
   gap: 30px;
 }
+
+/* .f{
+  display: grid;
+  grid-template-columns:repeat(5,1fr);
+} */

@@ -2,8 +2,8 @@ nav a {
   margin-right: 10px;
 }
 
-a:active {
+nav a.active {
   text-decoration: underline;
-  color: black;
-  background-color: aliceblue;
+  /* color: black; */
+  /* background-color: aliceblue; */
 }
