@@ -1,9 +1,9 @@
 import React from 'react';
 
-const FormTable = () => {
+const FormTable = ({products}) => {
     return (
         <div>
-            table
+            <h3>Total Products : {products}</h3>
         </div>
     );
 };
