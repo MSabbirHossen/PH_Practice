@@ -1,0 +1,22 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "This is my the first directiory of ExpreesJs journey. Started today(04/20/2026) at 11:00 am.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSabbirHossen/myFirstExpreesJsApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSabbirHossen/myFirstExpreesJsApp/issues"
+  },
+  "homepage": "https://github.com/MSabbirHossen/myFirstExpreesJsApp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
